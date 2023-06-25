@@ -1,10 +1,10 @@
 # Supermarket Sales Report 
+![Imagem do dashboard](dashboard.png)
 ## Descrição do Projeto
 O projeto Supermarket Sales Report é uma aplicação desenvolvida no Power BI para a análise e visualização dos dados de vendas de um supermercado. Através dessa solução, é possível obter insights valiosos sobre o desempenho das vendas, identificar padrões de consumo, acompanhar tendências e tomar decisões informadas com base nos dados.
 
 ## Funcionalidades
 O Supermarket Sales Report oferece as seguintes funcionalidades:
-
 
 <ol>
   <li><strong>Dashboard de vendas</strong>: Apresenta um resumo geral das vendas, como receita total, número de itens vendidos, vendas por categoria, vendas por região, entre outros. 
